@@ -39,4 +39,20 @@ export const Icons = {
       ></path>
     </svg>
   ),
+   linkedIn: (props: IconProps) => (
+    <svg
+      {...props}
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="2"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+    >
+      <path d="M6 9h3v12H6z" />
+      <path d="M9 3a3 3 0 1 1-6 0 3 3 0 0 1 6 0z" />
+      <path d="M21 16.022C21 14.67 20.187 10 15 10h-2v11h3V14c0-.65.42-2 2-2h2v7h3V16.022z" />
+    </svg>
+  ),
 };

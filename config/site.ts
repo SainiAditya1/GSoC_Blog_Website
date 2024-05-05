@@ -1,3 +1,5 @@
+import { Linkedin } from "lucide-react";
+
 export const siteConfig = {
   name: "Aditya",
   url: "https://adityasaini.tech",
@@ -8,6 +10,7 @@ export const siteConfig = {
     twitter: "https://twitter.com/Adityas19919164",
     github: "https://github.com/sainiaditya1",
     personalSite: "https://adityasaini.tech",
+    Linkedin: "https://www.linkedin.com/in/aditya-saini-ba44261b8/"
   },
 };
 
