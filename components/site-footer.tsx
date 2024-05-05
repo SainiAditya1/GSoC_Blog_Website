@@ -1,4 +1,4 @@
-import { siteConfig } from "@/config/site";
+import { siteConfig } from "@/content/blog/site";
 import { Mail } from "lucide-react";
 import { Icons } from "./icons";
 

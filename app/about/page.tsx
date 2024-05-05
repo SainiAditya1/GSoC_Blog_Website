@@ -1,5 +1,5 @@
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
-import { siteConfig } from "@/config/site";
+import { siteConfig } from "@/content/blog/site";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
